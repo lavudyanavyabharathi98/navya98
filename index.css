@@ -130,7 +130,9 @@ section a{
        100% {content:"shimla";}
 
 }
-
+.form{
+  width:70%;
+}
 .centerdiv{
   height:100vh;
   display:flex;
